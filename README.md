@@ -1,1 +1,1 @@
-# CSS_Extern
+Projeto de atividade em HTML e CSS para praticar os conceitos de espaçamento e layout com Flexbox, incluindo 20 elementos com diferentes propriedades de margin, padding, border e content, organizados de forma responsiva.
